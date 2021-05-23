@@ -1,16 +1,11 @@
-# Project Title
+# University Student Database - Console Application 
 
 ![Current Version](https://img.shields.io/badge/version-v0.1-blue)
-![GitHub contributors](https://img.shields.io/github/contributors/madhur-taneja/README-Template)
-![GitHub stars](https://img.shields.io/github/stars/madhur-taneja/README-Template?style=social)
-![GitHub forks](https://img.shields.io/github/forks/madhur-taneja/README-Template?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/madhurtaneja2?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/kyledacones/README-Template)
+![GitHub stars](https://img.shields.io/github/stars/kyledacones/README-Template?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/kyledacones?style=social)
 
 A template for README files that can be used for your future projects. A small description about the project, shields as well as the link to your repo.
-
-Open and view the Project using the `.zip` file provided or at my [GitHub Repository]
-
-The project is also hosted on [GitHub Pages]
 
 ## Table of Contents
 - [Getting Started](#getting-started)
