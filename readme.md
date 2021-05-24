@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/kyledacones/README-Template?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/kyledacones?style=social)
 
-A template for README files that can be used for your future projects. A small description about the project, shields as well as the link to your repo.
+This project exists to demonstrate competency in with Object Oriented Programming Concepts by applying them to real-world technical challenges. Competency will be achieved when the student can build a solution for a console application. The console will enter student information into the database for school administrators. The console has to be able to retrieve student information like name, StudentID, major, etc. The project will utilize an existing system already in production. The console will only be accessed using the terminal and console output.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -17,8 +17,6 @@ A template for README files that can be used for your future projects. A small d
 	  - [Step 2: Subheading](#step-2-subheading)
 	- [Part 2: Heading](#part-2-heading)
 - [Running the App](#running-the-app)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
 - [Versioning](#versioning)
 - [Authors](#authors)
 - [License](#license)
@@ -26,10 +24,10 @@ A template for README files that can be used for your future projects. A small d
 
 ## Getting Started
 
-The project might have multiple branches: `master`, `development`, etc. which can be explained here
+> > The project might have multiple branches: `master`, `hotfix` which can be explained here
 
 * `master` contains aggregate code of all branches
-* `development` contains code under development
+* `hotfix` contains code under development
 
 Other details that need to be given while starting out with the project can be provided in this section. A project structure like below can also be included for the big projects:
 
@@ -131,25 +129,3 @@ You can also see the complete [list of contributors][contributors] who participa
 
 `Project Title` is open source software [licensed as MIT][license].
 
-## Acknowledgments
-
-This section can also be called as `Resources` or `References`
-
-* Code Honor if someone's work was referred to
-* Tutorials followed
-* Articles that helped
-* Inspiration
-* etc
-
-[//]: # (HyperLinks)
-
-[GitHub Repository]: https://github.com/madhur-taneja/README-Template
-[GitHub Pages]: https://madhur-taneja.github.io/README-Template
-[CONTRIBUTING.md]: https://github.com/madhur-taneja/README-template/blob/master/CONTRIBUTING.md
-[tags]: https://github.com/madhur-taneja/README-template/tags
-
-[GitHub]: https://github.com/madhur-taneja
-[LinkedIn]: https://www.linkedin.com/in/madhur-taneja/
-
-[contributors]: https://github.com/madhur-taneja/README-template/contributors
-[license]: https://github.com/madhur-taneja/README-template/blob/master/LICENSE.md
