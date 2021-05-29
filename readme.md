@@ -29,27 +29,35 @@ This project exists to demonstrate competency in with Object Oriented Programmin
 * `master` contains aggregate code of all branches
 * `hotfix` contains code under development
 
-Other details that need to be given while starting out with the project can be provided in this section. A project structure like below can also be included for the big projects:
+Other details that need to be given while starting out with the project can be provided in this section. A project structure like below can also be included for the big projects: 
 
-```
-	project-title
-	├── README.md
-	├── package.json
-	├── .gitignore
-	├── public
-	│   ├── favicon.ico
-	│   ├── index.html
-	│   └── manifest.json
-	└── src
-		├── App.css
-		├── App.js
-		├── App.test.js
-		├── index.css
-		├── index.js
-		├── logo.svg
-		└── serviceWorker.js
-		└── setupTests.js
-```
+/
+└── libstud/
+    └── path/
+        ├── path.hpp
+        ├── path-io.hpp
+        └── ...
+
+libstud-url/
+└── libstud/
+    └── url/
+        ├── url.hpp
+        ├── url-io.hpp
+        └── ...
+libstud-path/
+└── libstud/
+    └── path/
+        ├── path.hpp
+        ├── path-io.hpp
+        └── ...
+
+libstud-url/
+└── libstud/
+    └── url/
+        ├── url.hpp
+        ├── url-io.hpp
+        └── ...
+
 
 ### Tools Required
 
@@ -57,6 +65,7 @@ All tools required go here. You would require the following tools to develop and
 
 * A text editor or an IDE (like IntelliJ)
 * Mention the other tools required for the project 
+
 
 ### Installation
 
@@ -119,7 +128,7 @@ For the available versions, see the [tags on this repository][tags]
 
 ## Authors
 
-#### Madhur Taneja
+#### 
 * [GitHub]
 * [LinkedIn]
 
