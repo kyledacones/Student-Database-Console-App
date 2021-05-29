@@ -31,7 +31,7 @@ This project exists to demonstrate competency in with Object Oriented Programmin
 
 Other details that need to be given while starting out with the project can be provided in this section. A project structure like below can also be included for the big projects: 
 
-/
+
 └── libstud/
     └── path/
         ├── path.hpp
