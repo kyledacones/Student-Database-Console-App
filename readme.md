@@ -1,9 +1,10 @@
 # University Student Database - Console Application 
 
 ![Current Version](https://img.shields.io/badge/version-v0.1-blue)
-![GitHub contributors](https://img.shields.io/github/contributors/kyledacones/README-Template)
+![GitHub contributors](https://img.shields.io/github/contributors/kyledacones/readme.md)
 ![GitHub stars](https://img.shields.io/github/stars/kyledacones/README-Template?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/kyledacones?style=social)
+
 
 This project exists to demonstrate competency in with Object Oriented Programming Concepts by applying them to real-world technical challenges. Competency will be achieved when the student can build a solution for a console application. The console will enter student information into the database for school administrators. The console has to be able to retrieve student information like name, StudentID, major, etc. The project will utilize an existing system already in production. The console will only be accessed using the terminal and console output.
 
@@ -31,48 +32,54 @@ This project exists to demonstrate competency in with Object Oriented Programmin
 
 Other details that need to be given while starting out with the project can be provided in this section. A project structure like below can also be included for the big projects: 
 
+*  Student-Database-Console-App/
+    * readme.md 
+    * .gitignore 
+    * .github /
+        * labeler.yaml
+        * workflows
+        * labels.yml
+    * bin /
+        * C847FinalProject.sln 
+        * C847FinalProject.vcxproj
+     * docs /
+        * License
+        * readme.md
+        * Capture.png
+     * src / 
+         * student.cpp
+         * networkStudent.cpp
+         * securityStudent.cpp
+         * roster.cpp
+         * softwareStudent.cpp
+     * include / 
+         * student.h 
+         * degree.h
+         * networkStudent.h
+         * softwareStudent.h
+         * securityStudent.h
 
-└── libstud/
-    └── path/
-        ├── path.hpp
-        ├── path-io.hpp
-        └── ...
 
-libstud-url/
-└── libstud/
-    └── url/
-        ├── url.hpp
-        ├── url-io.hpp
-        └── ...
-libstud-path/
-└── libstud/
-    └── path/
-        ├── path.hpp
-        ├── path-io.hpp
-        └── ...
 
-libstud-url/
-└── libstud/
-    └── url/
-        ├── url.hpp
-        ├── url-io.hpp
-        └── ...
 
 
 ### Tools Required
 
 All tools required go here. You would require the following tools to develop and run the project:
 
-* A text editor or an IDE (like IntelliJ)
-* Mention the other tools required for the project 
+* An IDE with a compiler (Visual Studio IDE)
+* C++ Documentation 
+* A basic understanding of OOP concepts and how to implement them in a simple CRUD app 
 
 
 ### Installation
 
 All installation steps go here.
 
-* Installing a particular tool
-  * Steps to complete it
+* Installing Visual Studio IDE 
+  * Go to the Microsoft‘s download section
+  * Click on visual studio 
+  * download visual studio and install 
   
 * Installing another tool
 
