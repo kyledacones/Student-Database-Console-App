@@ -12,16 +12,9 @@ This project exists to demonstrate competency in with Object Oriented Programmin
 - [Getting Started](#getting-started)
 	- [Tools Required](#tools-required)
 	- [Installation](#installation)
-- [Development](#development)
-    - [Part 1: Heading](#part-1-heading)
-	  - [Step 1: Subheading](#step-1-subheading)
-	  - [Step 2: Subheading](#step-2-subheading)
-	- [Part 2: Heading](#part-2-heading)
 - [Running the App](#running-the-app)
-- [Versioning](#versioning)
 - [Authors](#authors)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -32,7 +25,7 @@ This project exists to demonstrate competency in with Object Oriented Programmin
 
 Other details that need to be given while starting out with the project can be provided in this section. A project structure like below can also be included for the big projects: 
 
-*  Student-Database-Console-App/
+*  Student-Database-Console-App /
     * readme.md 
     * .gitignore 
     * .github /
@@ -60,9 +53,6 @@ Other details that need to be given while starting out with the project can be p
          * securityStudent.h
 
 
-
-
-
 ### Tools Required
 
 All tools required go here. You would require the following tools to develop and run the project:
@@ -79,69 +69,28 @@ All installation steps go here.
 * Installing Visual Studio IDE 
   * Go to the Microsoft‘s download section
   * Click on visual studio 
-  * download visual studio and install 
-  
-* Installing another tool
+  * Download visual studio and install 
 
-## Development
-
-This section is completely optional. For big projects, the developement strategies are not discussed. But for small projects, you can give some insight to people. It has 2 benefits in my opinion:
-
-1. It's a way to give back to the community. People get to learn from you and appreciate your work
-2. You can refer the README in future as a quick refresher before an interview or for an old project to check if it can help you in your currect work
-
-### Part 1: Heading
-
-#### Step 1: Subheading
-
-* Mention the steps here
-  * You can also have nested steps to break a step into small tasks
-  
-#### Step 2: Subheading
-
-* Mention the steps here.
-  * You can also have nested steps to break a step into small tasks
-
-For details now how everything has been implemented, refer the source code
-
-### Part 2: Heading
-
-* Mention the steps here
 
 ## Running the App
 
 Steps and commands for running the app are to be included here
 
 * Example steps:
-  ```
-    Example command
-  ```
-
-## Deployment
-
-This section is completely optional. Add additional notes about how to deploy this on a live system
-
-## Contributing
-
-Mention what you expect from the people who want to contribute
-
-We'd love to have your helping hand on `Project Title`! See [CONTRIBUTING.md] for more information on what we're looking for and how to get started.
-
-## Versioning
-
-If your project has multiple versions, include information about it here. 
-
-For the available versions, see the [tags on this repository][tags]
+   1. Make yourself familiar with the purpose of the app and how it is to be used. 
+   2. Check to make sure you have the correct back-end setup and an api to facilitate the communication between the console & server. 
+   3. Navigate to the Student-Database-Console-App directory located at: 
+   `Student-Database-Console-App/bin`
+   6. Run compiled program called, C847FinalProject.sln
+   7. Output should match the following:
+![Image](assets/IMG_1.png)
 
 ## Authors
 
 #### 
-* [GitHub]
-* [LinkedIn]
-
-You can also see the complete [list of contributors][contributors] who participated in this project.
+[GitHub](github.com/kyledacones)
 
 ## License
 
-`Project Title` is open source software [licensed as MIT][license].
+‘ University Student Database - Console Application‘ is open source software [licensed as MIT][license].
 
