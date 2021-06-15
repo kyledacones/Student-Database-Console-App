@@ -23,7 +23,9 @@ This project exists to demonstrate competency in with Object Oriented Programmin
 * `master` contains aggregate code of all branches
 * `hotfix` contains code under development
 
-Other details that need to be given while starting out with the project can be provided in this section. A project structure like below can also be included for the big projects: 
+Directory Tree for Project: 
+
+```
 
 *  Student-Database-Console-App /
     * readme.md 
@@ -51,6 +53,8 @@ Other details that need to be given while starting out with the project can be p
          * networkStudent.h
          * softwareStudent.h
          * securityStudent.h
+
+```
 
 
 ### Tools Required
@@ -83,14 +87,12 @@ Steps and commands for running the app are to be included here
    `Student-Database-Console-App/bin`
    6. Run compiled program called, C847FinalProject.sln
    7. Output should match the following:
-![Image](assets/IMG_1.png)
+[Image](https://github.com/kyledacones/Student-Database-Console-App/blob/master/LICENSE)
 
-## Authors
-
-#### 
-[GitHub](github.com/kyledacones)
+## Author
+[Kyle Dacones - GitHub](github.com/kyledacones)
 
 ## License
 
-‘ University Student Database - Console Application‘ is open source software [licensed as MIT][license].
+University Student Database - Console Application is open source software that uses a GNU Public License [GPL v2.0 License](https://github.com/kyledacones/Student-Database-Console-App/blob/master/LICENSE)
 
